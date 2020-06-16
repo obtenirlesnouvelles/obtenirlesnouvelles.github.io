@@ -1,7 +1,7 @@
-## Get Updates on COVID-19
+## Obtenir les nouvelles sur la COVID-19
 [English](getupdates.github.io)
 
-[Get Updates on COVID-19](https://www.canada.ca/en/managed-web-service/get-updates-covid-19.html) is a web-based email service from the Government of Canada that was launched in the early days of the coronavirus outbreak in Canada. Developed by Health Canada, the Canadian Digital Service (CDS), and Service Canada, service subscribers get emails directing them to important and authoritative content on the Government of Canada’s [COVID-19 website](https://www.canada.ca/coronavirus).
+[Obtenir les nouvelles sur la COVID-19](https://www.canada.ca/fr/service-web-gere/obtenez-nouvelles-covid-19.html) is a web-based email service from the Government of Canada that was launched in the early days of the coronavirus outbreak in Canada. Developed by Health Canada, the Canadian Digital Service (CDS), and Service Canada, service subscribers get emails directing them to important and authoritative content on the Government of Canada’s [COVID-19 website](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html?utm_campaign=not-applicable&utm_medium=vanity-url&utm_source=canada-ca_coronavirus).
 
 The service has two components. CDS's [Notify platform](https://notification.alpha.canada.ca) sends the emails. [Service Canada](https://github.com/ServiceCanada), in its role as Principal Publisher for canada.ca, developed the public facing forms and maintains the database to collect and store the information in its cloud space within Canada.
 
