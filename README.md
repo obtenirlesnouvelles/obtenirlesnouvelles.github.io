@@ -15,6 +15,6 @@ Built using existing products, Service Canada and CDS enhanced the backend and a
 - [CDS Notify Page](https://github.com/cds-snc/notification-api)
 
 **Service Documentation**
- - [Service Register](https://docs.google.com/document/d/1pJQqsmV5bPTKOT6XOqBQXlTESbpkKYovfAqr0D8zh6U/edit?usp=sharing)
+ - [Registre du service](https://docs.google.com/document/d/14w6Kx_0Lcc9yEoPPFxfPZ-C1PDt-fq7kaCDQhPwo7yM/edit?usp=sharing)
  - Blog Post I: [Obtenir les nouvelles sur la COVID-19 — Service de notification par courriel](https://numerique.canada.ca/2020/05/13/obtenir-les-nouvelles-sur-la-covid-19-service-de-notification-par-courriel/)
  - Blog Post II: [Launching an Alpha] 
