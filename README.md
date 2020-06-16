@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Get Updates on COVID-19
+[English](getupdates.github.io)
 
-You can use the [editor on GitHub](https://github.com/obtenirlesnouvelles/obtenirlesnouvelles.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[Get Updates on COVID-19](https://www.canada.ca/en/managed-web-service/get-updates-covid-19.html) is a web-based email service from the Government of Canada that was launched in the early days of the coronavirus outbreak in Canada. Developed by Health Canada, the Canadian Digital Service (CDS), and Service Canada, service subscribers get emails directing them to important and authoritative content on the Government of Canada’s [COVID-19 website](https://www.canada.ca/coronavirus).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The service has two components. CDS's [Notify platform](https://notification.alpha.canada.ca) sends the emails. [Service Canada](https://github.com/ServiceCanada), in its role as Principal Publisher for canada.ca, developed the public facing forms and maintains the database to collect and store the information in its cloud space within Canada.
 
-### Markdown
+Built using existing products, Service Canada and CDS enhanced the backend and administrative functions, ensuring the database and connections were secure, and automating the transfer of the subscribers list to Notify. The service benefited from existing web publishing processes with guidance and advice on best practices for accessibility, analytics, official languages, UTM coding, content and style.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+**GitHub Resources**
+- [Service Canada x-notify](https://github.com/ServiceCanada/x-notify)
+- [CDS Notify Page](https://github.com/cds-snc/notification-api)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/obtenirlesnouvelles/obtenirlesnouvelles.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Service Documentation**
+ - [Service Register](https://docs.google.com/document/d/1pJQqsmV5bPTKOT6XOqBQXlTESbpkKYovfAqr0D8zh6U/edit?usp=sharing)
+ - Blog Post I: [Obtenir les nouvelles sur la COVID-19 — Service de notification par courriel](https://numerique.canada.ca/2020/05/13/obtenir-les-nouvelles-sur-la-covid-19-service-de-notification-par-courriel/)
+ - Blog Post II: [Launching an Alpha] 
