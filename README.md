@@ -1,7 +1,7 @@
 ## Obtenir les nouvelles sur la COVID-19
 [English](https://getupdates.github.io/)
 
-[« Obtenir les nouvelles sur la COVID-19 »](https://www.canada.ca/fr/service-web-gere/obtenez-nouvelles-covid-19.html) est un service Web de courriel du gouvernement du Canada lancé au tout début de l’éclosion du coronavirus au Canada. Élaboré par Santé Canada, le Service numérique canadien (SNC) et Service Canada, les abonnés au service obtiennent des courriels qui les dirigent vers des contenus importants et qui font autorité sur le [site Web de la COVID-19](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html?utm_campaign=not-applicable&utm_medium=vanity-url&utm_source=canada-ca_coronavirus) du gouvernement du Canada.
+[« Obtenir les nouvelles sur la COVID-19 »](https://www.canada.ca/fr/service-web-gere/obtenez-nouvelles-covid-19.html) est un service Web de courriel du gouvernement du Canada lancé au tout début de l’éclosion du coronavirus au Canada. Élaboré par Santé Canada, le Service numérique canadien (SNC) et Service Canada, les abonnés au service obtiennent des courriels qui les dirigent vers des contenus importants et qui font autorité sur le [site Web de la COVID-19](https://www.canada.ca/fr/sante-publique/services/maladies/maladie-coronavirus-covid-19.html) du gouvernement du Canada.
 
 Le service a deux composantes. La [plateforme Notification du SNC](https://notification.alpha.canada.ca) envoie les courriels. Service Canada, dans son rôle d’éditeur principal pour canada.ca, a mis au point une interface où les gens peuvent s’abonner et maintient la base de données pour recueillir et stocker les adresses courriel dans son espace partagé sur le nuage au Canada.
 
