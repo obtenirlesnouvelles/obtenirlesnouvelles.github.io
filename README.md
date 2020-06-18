@@ -1,5 +1,5 @@
 ## Obtenir les nouvelles sur la COVID-19
-[English](getupdates.github.io)
+[English](https://getupdates.github.io/)
 
 [« Obtenir les nouvelles sur la COVID-19 »](https://www.canada.ca/fr/service-web-gere/obtenez-nouvelles-covid-19.html) est un service Web de courriel du gouvernement du Canada lancé au tout début de l’éclosion du coronavirus au Canada. Élaboré par Santé Canada, le Service numérique canadien (SNC) et Service Canada, les abonnés au service obtiennent des courriels qui les dirigent vers des contenus importants et qui font autorité sur le [site Web de la COVID-19](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html?utm_campaign=not-applicable&utm_medium=vanity-url&utm_source=canada-ca_coronavirus) du gouvernement du Canada.
 
