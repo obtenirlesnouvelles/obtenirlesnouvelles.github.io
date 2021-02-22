@@ -18,3 +18,4 @@ Faisant fond sur les produits existants, Service Canada et SNC ont amélioré le
  - [Registre du service](https://docs.google.com/document/d/14w6Kx_0Lcc9yEoPPFxfPZ-C1PDt-fq7kaCDQhPwo7yM/edit?usp=sharing)
  - Billet de blogue I : [Obtenir les nouvelles sur la COVID-19 — Service de notification par courriel](https://numerique.canada.ca/2020/05/13/obtenir-les-nouvelles-sur-la-covid-19-service-de-notification-par-courriel/)
  - Billet de blogue II: [Lancement d’un Alpha](https://numerique.canada.ca/2020/06/17/lancement-dun-service-alpha/)
+ - Forum des Politiques Publiques: [Comment le service « Obtenir les nouvelles sur la COVID-19 » a été créé et lancé](https://ppforum.ca/fr/publications/comment-le-service-obtenir-les-nouvelles-sur-la-covid-19-a-ete-cree-et-lance/)
